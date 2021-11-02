@@ -13,3 +13,6 @@
 .link:focus {
   color: #2196f3;
 }
+.address {
+  font-style: normal;
+}
