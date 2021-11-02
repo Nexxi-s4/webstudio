@@ -1,0 +1,15 @@
+.body {
+  color: #212121;
+}
+.list,
+.link {
+  list-style: none;
+  text-decoration: none;
+}
+.link {
+  color: #212121;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
